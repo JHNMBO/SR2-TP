@@ -1,0 +1,1700 @@
+[NET] INIT NETWORK LAYER OK (with local port 42525).
+[NET] (using 0.00 loss and 0.00 error probability)
+[TRP] Initialisation reseau : OK.
+[TRP] Debut execution protocole transport.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[NET] packet received.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 32 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 32 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 33 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 33 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 34 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 34 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 35 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 35 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 36 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 36 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 37 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 37 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 38 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 38 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 39 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 39 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 40 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 40 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 41 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 41 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 42 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 42 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 43 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 43 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 44 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 44 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 45 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 45 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 46 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 46 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 47 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 47 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 48 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 48 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 49 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 49 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 50 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 50 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 51 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 51 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 52 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 52 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 53 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 53 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 54 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 54 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 55 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 55 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 56 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 56 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 57 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 57 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 58 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 58 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 59 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 59 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 60 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 60 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 61 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 61 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 62 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 62 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 63 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 63 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 64 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 64 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 65 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 65 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 66 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 66 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 67 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 67 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 68 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 68 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 69 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 69 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 70 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 70 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 71 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 71 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 72 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 72 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 73 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 73 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 74 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 74 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 75 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 75 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 76 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 76 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 77 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 77 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 78 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 78 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 79 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 79 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 80 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 80 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 81 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 81 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 82 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 82 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 83 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 83 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 84 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 84 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 85 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 85 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 86 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 86 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 87 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 87 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 88 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 88 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 89 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 89 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 90 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 90 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 91 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 91 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 92 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 92 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 93 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 93 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 94 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 94 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 95 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 95 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 96 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 96 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 97 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 97 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 98 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 98 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 99 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 99 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 100 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 100 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 101 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 101 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 102 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 102 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 103 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 103 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 104 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 104 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 105 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 105 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 106 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 106 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 107 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 107 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 108 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 108 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 109 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 109 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 110 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 110 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 111 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 111 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 112 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 112 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 113 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 113 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 114 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 114 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 115 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 115 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 116 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 116 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 117 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 117 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 118 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 118 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 119 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 119 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 120 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 120 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 121 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 121 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 122 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 122 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 123 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 123 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 124 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 124 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 125 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 125 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 126 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 126 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 127 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 127 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 128 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 128 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 129 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 129 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 130 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 130 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 131 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 131 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 132 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 132 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 133 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 133 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 134 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 134 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 135 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 135 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 136 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 136 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 137 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 137 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 138 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 138 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 139 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 139 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 140 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 140 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 141 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 141 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 142 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 142 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 143 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 143 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 144 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 144 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 145 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 145 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 146 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 146 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 147 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 147 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 148 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 148 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 149 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 149 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 150 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 150 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 151 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 151 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 152 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 152 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 153 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 153 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 154 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 154 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 155 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 155 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 156 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 156 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 157 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 157 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 158 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 158 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 159 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 159 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 160 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 160 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 161 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 161 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 162 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 162 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 163 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 163 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 164 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 164 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 165 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 165 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 166 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 166 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 167 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 167 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 168 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 168 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 169 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 169 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 170 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 170 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 171 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 171 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 172 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 172 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 173 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 173 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 174 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 174 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 175 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 175 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 176 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 176 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 177 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 177 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 178 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 178 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 179 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 179 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 180 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 180 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 181 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 181 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 182 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 182 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 183 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 183 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 184 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 184 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 185 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 185 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 186 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 186 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 187 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 187 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 188 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 188 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 189 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 189 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 190 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 190 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 191 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 191 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 192 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 192 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 193 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 193 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 194 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 194 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 195 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 195 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 196 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 196 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 197 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 197 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 198 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 198 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 199 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 199 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 200 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 200 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 201 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 201 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 202 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 202 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 203 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 203 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 204 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 204 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 205 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 205 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 206 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 206 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 207 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 207 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 208 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 208 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 209 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 209 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 210 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 210 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 211 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 211 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 212 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 212 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 213 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 213 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 214 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 214 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 215 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 215 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 216 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 216 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 217 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 217 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 218 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 218 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 219 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 219 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 220 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 220 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 221 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 221 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 222 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 222 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 223 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 223 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 224 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 224 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 225 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 225 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 226 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 226 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 227 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 227 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 228 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 228 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 229 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 229 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 230 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 230 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 231 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 231 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 232 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 232 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 233 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 233 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 234 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 234 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 235 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 235 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 236 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 236 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 237 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 237 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 238 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 238 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 239 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 239 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 240 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 240 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 241 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 241 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 242 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 242 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 243 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 243 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 244 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 244 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 245 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 245 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 246 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 246 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 247 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 247 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 248 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 248 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 249 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 249 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 250 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 250 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 251 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 251 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 252 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 252 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 253 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 253 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 254 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 254 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 255 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 255 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 256 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 256 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 257 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 257 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 258 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 258 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 259 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 259 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 260 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 260 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 261 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 261 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 262 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 262 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 263 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 263 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 264 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 264 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 265 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 265 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 266 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 266 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 267 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 267 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 268 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 268 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 269 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 269 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 270 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 270 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 271 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 271 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 272 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 272 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 273 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 273 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 274 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 274 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 275 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 275 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 276 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 276 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 277 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 277 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 278 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 278 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 279 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 279 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 280 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 280 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 281 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 281 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 282 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 282 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 283 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 283 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 284 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 284 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 285 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 285 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 286 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 286 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 287 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 287 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 288 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 288 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 289 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 289 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 290 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 290 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 291 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 291 is incorrect.[0m
+
+[APP] Lecture fichier.
+[NET] packet sent.
+[31m[NET] Timer number 292 is incorrect.[0m
+[NET] packet received.
+[31m[NET] Timer number 292 is incorrect.[0m
+[APP] Fin du fichier.
+[TRP] Fin execution protocole transfert de donnees (TDD).
